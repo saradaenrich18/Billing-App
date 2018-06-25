@@ -1,43 +1,3 @@
-
-Conversation opened. 2 messages. All messages read.
-
-Skip to content
-Using Gmail with screen readers
-Click here to enable desktop notifications for Gmail.   Learn more  Hide
-Move to Inbox
- 
-More 
- 
-python
-Sarada Soora		Attachments12/26/17
- 
-Sarada Soora <soora.saraswathi.sarada@gmail.com>
-	
-Attachments12/27/17
-	
-to Vaishnavi
-
----------- Forwarded message ----------
-From: Sarada Soora <soora.saraswathi.sarada@gmail.com>
-Date: Tue, Dec 26, 2017 at 6:51 PM
-Subject: python
-To: Mohana Prriya <mohanaprriya.mp@gmail.com>
-
-
-
-
-
-Attachments area
-	
-Click here to Reply or Forward
-3.48 GB (23%) of 15 GB used
-Manage
-Terms · Privacy · Program Policies
-Last account activity: 7 hours ago
-Details
-	
-	
-
 from tkinter import* #GUI creation module and thin OO Layer
 import random 
 import time;
@@ -227,6 +187,3 @@ btnUpdate=Button(f1,padx=16,pady=16,bd=16,fg="black",font=('arial',16,'bold'),wi
 btnExit=Button(f1,padx=16,pady=16,bd=16,fg="black",font=('arial',16,'bold'),width=10,text="Exit",bg="powder blue",command= qExit).grid(row=5,column=2)
 
 root.mainloop() #show the root window and begin the main loop
-
-project.py
-Displaying project.py.
